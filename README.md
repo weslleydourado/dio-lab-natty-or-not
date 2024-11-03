@@ -13,6 +13,17 @@ Olá pessoal, aqui é o Weslley Dourado! Inspirado na hype _"Natty or Not"_ do f
 1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
 1. **Efeito de Rede**: Compartilhar meus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot** e marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
 
+## 📒 Descrição
+Foi utilizado único prompt nas IAs de geração de texto Copilot, ChatGPT e Gemini. Em seguinda foi demostrado as direfentes respostas de cada Chatbot.
+
+## 🤖 Tecnologias Utilizadas
+* [Copilot](https://copilot.microsoft.com/)  
+* [ChatGPT](https://chatgpt.com/)  
+* [Gemini](https://gemini.google.com/)
+
+## 🧐 Processo de Criação
+Foi escrito o prompt "Descreva o que são os objetivos ODS, liste os principais objetivos ODS cruciais para a américa-latina da agenda 2030 e por fim explique como alcançar cada um desses objetivos." aos ChatBot. 
+
 # Projeto
 ## Usando IAs LLM (Copilot, Gemini, ChatGPT)
 
@@ -133,19 +144,6 @@ Os ODS representam um caminho para um futuro mais justo, equitativo e sustentáv
 * **CEPAL:** [https://www.cepal.org/pt-br/subtopicos/agenda-2030-o-desenvolvimento-sustentavel](https://www.cepal.org/pt-br/subtopicos/agenda-2030-o-desenvolvimento-sustentavel)
 
 **Gostaria de saber mais sobre algum ODS específico ou sobre as ações de algum país da América Latina em relação aos ODS?** 
-
-
-
-## 📒 Descrição
-Foi utilizado único prompt nas IAs de geração de texto Copilot, ChatGPT e Gemini. Em seguinda foi demostrado as direfentes respostas de cada Chatbot.
-
-## 🤖 Tecnologias Utilizadas
-* [Copilot](https://copilot.microsoft.com/)  
-* [ChatGPT](https://chatgpt.com/)  
-* [Gemini](https://gemini.google.com/)
-
-## 🧐 Processo de Criação
-Foi escrito o prompt "Descreva o que são os objetivos ODS, liste os principais objetivos ODS cruciais para a américa-latina da agenda 2030 e por fim explique como alcançar cada um desses objetivos." aos ChatBot. 
 
 ## 🚀 Resultados
 Com isso, foi possível perceber as correlações, as (in)congruências e as similaridades apensar de usar o mesmo prompt para todos os ChatBots. Fato esperado visto que são ChatBots com diferentes treimamentos. 
