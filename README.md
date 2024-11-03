@@ -21,6 +21,7 @@ Olá pessoal, aqui é o Weslley Dourado! Inspirado na hype _"Natty or Not"_ do f
 ```
 Descreva o que são os objetivos ODS, liste os principais objetivos ODS cruciais para a américa-latina da agenda 2030 e por fim explique como alcançar cada um desses objetivos.
 ```
+
 ### Resultados
 ----------------------
 
@@ -151,7 +152,6 @@ Com isso, foi possível perceber as correlações, as (in)congruências e as sim
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
-```
 
 ### Exemplos e Insigths
 
